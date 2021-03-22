@@ -8,6 +8,8 @@ In this project, we start with basic data analysis and then we start with actual
 
 ## This project goes through the next step.
 1. Public Data Analysis
-2. Financial Data Analysis
+- Apartment
+- Downtown
+2. Financial Analysis Using Python
 3. Using AI Library : scikit learn
 4. Using AI Library : tensorflow, pytorch
