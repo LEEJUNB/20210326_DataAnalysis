@@ -11,10 +11,20 @@ In this project, we start with basic data analysis and then we start with actual
 2. Download the data file from url in cell 1.
 3. Cell > Run All
 
-## This project goes through the next step.
-1. Public Data Analysis
+## This project 
+1. Analyzing Public Data with Python
 - Apartment
 - Downtown
-2. Financial Analysis Using Python
-3. Using AI Library : scikit learn
-4. Using AI Library : tensorflow, pytorch
+
+## Next step.
+1. Analyzing Financial Data with Python
+- Basic Financial Analysis
+- Derivative analysis
+<br/>
+2. Python Machine Learning Perfect Guide
+- Using AI Library : scikit learn, tensorflow, pytorch
+- Classification, LinearRegression, Dimension Reduction, Cluster
+- NLP, Surprise
+<br/>
+3. Data Science Training Book
+<br/>
