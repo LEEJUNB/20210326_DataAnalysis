@@ -26,11 +26,8 @@ In this project, we start with basic data analysis and then we start with actual
 1. Analyzing Financial Data with Python
 - Basic Financial Analysis
 - Derivative analysis
-<br/>
 2. Python Machine Learning Perfect Guide
 - Using AI Library : scikit learn, tensorflow, pytorch
 - Classification, LinearRegression, Dimension Reduction, Cluster
 - NLP, Surprise
-<br/>
 3. Data Science Training Book
-<br/>
