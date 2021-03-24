@@ -6,6 +6,11 @@ Many of these projects are written up on my [Blog page](https://0ver-grow.tistor
 
 In this project, we start with basic data analysis and then we start with actual data analysis using public data.
 
+## Start this project..
+1. git clone
+2. Download the data file from url in cell 1.
+3. Cell > Run All
+
 ## This project goes through the next step.
 1. Public Data Analysis
 - Apartment
