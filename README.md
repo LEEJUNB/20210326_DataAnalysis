@@ -6,10 +6,10 @@ Many of these projects are written up on my [Blog page](https://0ver-grow.tistor
 
 In this project, we start with basic data analysis and then we start with actual data analysis using public data.
 
-## Start this project..
-1. git clone
+## let's start this project
+1. git clone "https://github.com/LEEJUNB/DataAnalysis.git"
 2. Download the data file from url in cell 1.
-3. Cell > Run All
+3. Jupyter Notebook > Cell > Run All
 
 ## In this project, I recorded the following: 
 1. Utilized Data
