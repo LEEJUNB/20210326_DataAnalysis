@@ -11,10 +11,16 @@ In this project, we start with basic data analysis and then we start with actual
 2. Download the data file from url in cell 1.
 3. Cell > Run All
 
-## This project 
-1. Analyzing Public Data with Python
+## In this project, I recorded the following: 
+1. Utilized Data
 - Apartment
 - Downtown
+- Analysis of Franchisees
+- Store location comparison
+- Urban Park Data
+2. Use Techniques
+- seaborn, scatterplot, folium, Heatmap, CircleMarker 
+- missingno
 
 ## Next step.
 1. Analyzing Financial Data with Python
