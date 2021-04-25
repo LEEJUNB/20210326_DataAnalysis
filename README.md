@@ -18,16 +18,19 @@ In this project, we start with basic data analysis and then we start with actual
 - Analysis of Franchisees
 - Store location comparison
 - Urban Park Data
+
 2. Use Techniques
 - seaborn, scatterplot, folium, Heatmap, CircleMarker 
 - missingno
 
-## Next step.
+## Next step.(2021.05~)
 1. Analyzing Financial Data with Python
 - Basic Financial Analysis
 - Derivative analysis
+
 2. Python Machine Learning Perfect Guide
 - Using AI Library : scikit learn, tensorflow, pytorch
 - Classification, LinearRegression, Dimension Reduction, Cluster
 - NLP, Surprise
+
 3. Data Science Training Book
